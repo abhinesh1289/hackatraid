@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Local Secrets (CRITICAL)
+.env
+.env.local
+
+# Vercel & Build folders
+.vercel
+build/
+dist/
+
+# System Files
+.DS_Store
+Thumbs.db
